@@ -24,7 +24,7 @@
         "cron": "^1.8.2",
         "discord.js": "^12.5.3",
         "dotenv": "^8.2.0",
-        "mongoose": "^5.12.7",
+        "mongoose": "^5.13.15",
         "node-cron": "^2.0.3",
         "winston": "^3.3.3"
     }
